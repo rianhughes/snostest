@@ -1,0 +1,7 @@
+[package]
+name = "dlt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+snos = { git = "https://github.com/keep-starknet-strange/snos.git" }
